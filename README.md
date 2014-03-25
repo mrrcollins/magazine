@@ -1,2 +1,1 @@
-magazine
-========
+# GTIA Magazine
