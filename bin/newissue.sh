@@ -13,3 +13,5 @@ echo "Creating title.txt..."
 echo "% GTIA Magazine ${2}" > ${1}/en/title.txt
 echo "% gtia.com" >> ${1}/en/title.txt
 
+echo "Adding to the repo..."
+git add ${1}
