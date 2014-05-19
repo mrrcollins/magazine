@@ -2,7 +2,7 @@
 
 if [ "$#" -ne 2 ]; then
     echo "New issue requires two parameters, a directory name for the new"
-    echo "issue (such as vol001) and the name of the issue (such as Volume 1)"
+    echo "issue (such as gtia1406) and the name of the issue (such as Volume 1)"
     exit
 fi
 
